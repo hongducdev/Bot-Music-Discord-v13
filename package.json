@@ -1,0 +1,31 @@
+{
+    "name": "djs",
+    "version": "1.5.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+     "engines": {
+    "node": "16.8.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/opus": "^0.6.0",
+        "@distube/soundcloud": "^1.1.0",
+        "@distube/spotify": "^1.2.1",
+        "@distube/yt-dlp": "^0.0.2",
+        "ascii-table": "^0.0.9",
+        "axios": "^0.23.0",
+        "common-tags": "^1.8.2",
+        "discord-player": "^5.1.0",
+        "discord.js": "^13.2.0",
+        "distube": "^3.3.1-1",
+        "ffmpeg-static": "^4.4.0",
+        "glob": "^7.1.7",
+        "y": "^0.3.2"
+    }
+}
