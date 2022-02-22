@@ -1,6 +1,6 @@
 # Bot-Music-Discord-v13
 
-Music Bot Discord from PinkDuwc._#2428
+Music Bot Discord from PinkDuwc._#0510
 
 ![LOC](https://tokei.rs/b1/github/hongduccodedao/Bot-Music-Discord-v13?category=code)
 
