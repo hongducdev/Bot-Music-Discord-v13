@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN_APP",
+    "prefix": "PREFIX",
+    "cookie": "COOKIE_YOUTUBE",
+    "spotifyapi": {
+        "enabled": true,
+        "clientSecret": "CLIENT_SECRET_SPOTIFY",
+        "clientId": "CLIENT_ID_SPOTIFY"
+  }
+}
