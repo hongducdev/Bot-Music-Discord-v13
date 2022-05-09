@@ -26,6 +26,6 @@ module.exports = {
         .addField('📩 | Link tải', `[Click vào đây](${song.streamURL})`, true)
         .addField("👌 | Yêu cầu bởi",` ${song.user}`, true)
 
-        interaction.reply({embeds: [embed]});
+        interaction.followUp({embeds: [embed]});
     }
 }
