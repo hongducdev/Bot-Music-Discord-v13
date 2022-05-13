@@ -17,7 +17,7 @@ module.exports = {
         }
 
         queue.skip();
-        interaction.reply({embeds: [
+        interaction.followUp({embeds: [
             new MessageEmbed()
             .setColor('#ccff48')
             .setAuthor({name: 'Bỏ qua bài hát', iconURL: 'https://raw.githubusercontent.com/SudhanPlayz/Discord-MusicBot/master/assets/logo.gif'})
